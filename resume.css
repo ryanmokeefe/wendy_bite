@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+
+}
+h2 {
+    font-size: 28px;
+    border-bottom: #999 solid 1px;  
+    padding: 0 0 30px;  
+    
+}
+h3 {
+    font-size: 22px;
+    border-top: #999 solid 1px;    
+    padding: 40px 0 20px;
+    margin: 0;
+    /* text-decoration: underline; */
+    font-family: arial, sans-serif;
+}
+h4 {
+    padding: 0;
+    margin: 20px 0;
+    color: lemonchiffon;
+    font-family: arial, sans-serif;
+}
+p {
+    font-size: 16px;
+    padding: 0;
+    margin: 20px 0;
+}
+li {
+    text-align: left;
+}
