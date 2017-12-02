@@ -29,4 +29,9 @@ p {
 }
 li {
     text-align: left;
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+    color: lemonchiffon;
+    font-family: arial, sans-serif;
 }
